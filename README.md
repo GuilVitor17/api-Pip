@@ -3,4 +3,4 @@ api Pip
 
 # url - https://appbluemusicguil.herokuapp.com
 
-## Portas - Destaque, Romance, Infantis, Aventura,
+## Portas - Destaque, Romance, Infantis, Aventura, Religiao, curso, Historia,Literatura
